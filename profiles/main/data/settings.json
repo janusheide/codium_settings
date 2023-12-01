@@ -1,0 +1,31 @@
+{
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.colorTheme": "Monokai",
+    "C_Cpp.updateChannel": "Insiders",
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~../css"
+        },
+    ],
+    "sync.gist": "4430e48c24c850619c56a3fa6e859373",
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "jupyter.alwaysTrustNotebooks": true,
+    "explorer.confirmDragAndDrop": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": -1,
+    "cSpell.enabled": false,
+    "editor.fontSize": 13,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false
+}
